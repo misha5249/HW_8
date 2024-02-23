@@ -1,0 +1,39 @@
+.board {
+    border: 1px solid black;
+}
+div :first-child1{
+    color:pink;
+    }
+    #greycol{
+        color: gray;
+    }
+    div~div>p{
+        color: red;
+    }
+    p~p{
+        color: green;
+    }
+    .yellow{
+        color: yellow;
+    }
+.list1 {
+background-color: aqua;
+}
+.list2 {
+background-color:red;
+}
+.list3 {
+background-color: green;
+}
+.list4 {
+background-color: orange;
+}
+.list5 {
+background-color: blue;
+}
+.list6 {
+background-color: yellowgreen;
+}
+.list7{
+    background-color: blueviolet;
+}
